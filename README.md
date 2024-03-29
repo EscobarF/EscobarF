@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EscobarF
-- 👀 I’m interested in CyberSecurity and Network Engineering.
-- 🌱 I’m currently learning Network Engineer and Security Cisco Track 
+- 👀 I’m interested in Network Engineering and security
+- 🌱 I’m currently stuyding for my CCNA 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me www.linkedin.com/in/fredy-escobar-8b8108195
 - 😄 
